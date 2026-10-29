@@ -4,7 +4,7 @@ An end-to-end machine learning project exploring techniques for handling imbalan
 
 This repository implements data-level and algorithm-level approaches, including random oversampling, random undersampling, SMOTE, ADASYN, class weighting, and threshold-aware classification evaluation.
 
-## 1. Project Overview
+## 1. Overview
 
 Class imbalance occurs when the target classes in a classification dataset have significantly different numbers of observations.
 
